@@ -1,0 +1,15 @@
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\bin\Debug\net6.0\hudredPrimeLines.exe
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\bin\Debug\net6.0\hudredPrimeLines.deps.json
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\bin\Debug\net6.0\hudredPrimeLines.runtimeconfig.json
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\bin\Debug\net6.0\hudredPrimeLines.dll
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\bin\Debug\net6.0\hudredPrimeLines.pdb
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.csproj.AssemblyReference.cache
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.AssemblyInfoInputs.cache
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.AssemblyInfo.cs
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.csproj.CoreCompileInputs.cache
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.dll
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\refint\hudredPrimeLines.dll
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.pdb
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\hudredPrimeLines.genruntimeconfig.cache
+C:\Dev\Netgen\EliteWealth\hudredPrimeLines\obj\Debug\net6.0\ref\hudredPrimeLines.dll
